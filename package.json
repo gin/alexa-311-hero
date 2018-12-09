@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/gin/alexa-311-hero#readme",
   "dependencies": {
-    "nodemailer": "^4.7.0"
+    "nodemailer": "^4.7.0",
+    "nodemailer-sendgrid-transport": "^0.2.0"
   }
 }
