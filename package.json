@@ -1,0 +1,22 @@
+{
+  "name": "alexa-311-hero",
+  "version": "0.0.1",
+  "description": "",
+  "main": "emailer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gin/alexa-311-hero.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gin/alexa-311-hero/issues"
+  },
+  "homepage": "https://github.com/gin/alexa-311-hero#readme",
+  "dependencies": {
+    "nodemailer": "^4.7.0"
+  }
+}
